@@ -9,7 +9,7 @@ function Set-Something {
 
   param($Thing)
 
-  Write-Output "I set something on $Thing"
+  Write-Output "I set something else on $Thing"
 
   }
 
