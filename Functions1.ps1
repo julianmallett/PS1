@@ -8,7 +8,7 @@
 function Set-Something {
 
   param($Thing)
-
+#WTF
   Write-Output "I set something on $Thing"
 
   }
